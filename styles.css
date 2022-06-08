@@ -1,0 +1,39 @@
+  h5 { color:rgb(50, 7, 131);
+    border: 1px solid rgb(11, 106, 119);
+    padding: 10px;
+  }
+  h4{
+    font-size: 100px;
+  }
+  ul {
+    list-style-type: none;
+    margin: 10;
+    padding: 10;
+    overflow: hidden;
+    background-color:   #006666;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 17px;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 15px 15px;
+    text-decoration: none;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 17px;
+    
+  }
+  
+  li a:hover {
+    background-color:#1affff;
+    color:#006666;
+  }
+  bg{
+  background-size: cover; height:480px; padding-top:80px;
+  }
